@@ -1,4 +1,4 @@
 x="9a33053e9501bca3bef97c5b26e3b44e3b7d65b02ee5b9ddb0543d654b113a37"
 dekaeksadiko=396133333035336539353031626361336265663937633562323665336234346533623
 entropia=-dekaeksadiko*10
-print "Εντροπία:",entropia
+print "Ξ•Ξ½Ο„ΟΞΏΟ€Ξ―Ξ±:",entropia
